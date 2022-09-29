@@ -1,1 +1,8 @@
-# taegyun0922.github.io
+Rogan's Blog
+============
+
+## TECH
+## NEWS/Trend
+## DEV
+## Cloud
+## ETC
